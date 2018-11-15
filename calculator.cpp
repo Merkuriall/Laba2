@@ -1,5 +1,12 @@
 #include "calculator.h"
-
+/*
+   Hello world
+   My name is Denis
+   I am from ІО-02
+   Want to get a score 100
+   I love Kyiv
+   I am from Krivoy Rog
+*/
 int Calculator::Add (double a, double b)
 {
 <<<<<<< HEAD
